@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>TMTools</string>
+	<key>ordering</key>
+	<array>
+		<string>CFB9194E-A12D-4D50-848D-6ADF3468EB65</string>
+		<string>89C8F7FB-DF63-4AED-B79D-149977E1C366</string>
+		<string>E3748A34-8221-461B-9EA7-56692AE84FBF</string>
+		<string>6F48EE2F-9727-4E2B-9005-51539FD4794B</string>
+		<string>8B85BFA4-8E7E-42F1-995C-6B1CB1E59E9E</string>
+		<string>B6B75868-F224-4FF4-AE76-E6C4864F7F2D</string>
+	</array>
+	<key>uuid</key>
+	<string>AEF76998-4A99-495C-885E-F9A6562E4C12</string>
+</dict>
+</plist>

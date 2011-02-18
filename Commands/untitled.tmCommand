@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>"$TMTOOLS" help me</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>§</string>
+	<key>name</key>
+	<string>Help</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>uuid</key>
+	<string>CFB9194E-A12D-4D50-848D-6ADF3468EB65</string>
+</dict>
+</plist>
